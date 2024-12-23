@@ -42,7 +42,7 @@ A lightweight and easy-to-understand implementation of a Kafka producer and cons
 ![Demo](media/demo.gif)
 
 
-## Reference
+## References
 
-- https://www.arroyo.dev/blog/using-kafka-with-rust#rust-kafka-clients
-- https://medium.com/@rayato159/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-kafka-%E0%B9%83%E0%B8%99-golang-%E0%B8%88%E0%B8%B2%E0%B8%81-zero-to-hero-maybe-a9538720ca75
+- [Using Kafka with Rust](https://www.arroyo.dev/blog/using-kafka-with-rust)
+- [การใช้งาน Kafka ใน Golang: From Zero to Hero (Maybe)](https://medium.com/@rayato159/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-kafka-%E0%B9%83%E0%B8%99-golang-%E0%B8%88%E0%B8%B2%E0%B8%81-zero-to-hero-maybe-a9538720ca75)

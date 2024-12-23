@@ -1,9 +1,9 @@
 # Simple Kafka with Rust
+
 ![Rust](https://img.shields.io/badge/Rust-🦀-orange?style=for-the-badge)
 ![Kafka](https://img.shields.io/badge/Kafka-🔗-black?style=for-the-badge)
 
-
-    A lightweight and easy-to-understand implementation of a Kafka producer and consumer built using Rust. This project demonstrates how to interact with Apache Kafka in a simple, efficient way, leveraging the performance and safety features of Rust.
+A lightweight and easy-to-understand implementation of a Kafka producer and consumer built using Rust. This project demonstrates how to interact with Apache Kafka in a simple, efficient way, leveraging the performance and safety features of Rust.
 
 ## Features
 

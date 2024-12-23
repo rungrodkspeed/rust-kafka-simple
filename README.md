@@ -1,5 +1,4 @@
 # Simple Kafka with Rust
-
 ![Rust](https://img.shields.io/badge/Rust-🦀-orange?style=for-the-badge)
 ![Kafka](https://img.shields.io/badge/Kafka-🔗-black?style=for-the-badge)
     

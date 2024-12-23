@@ -18,8 +18,8 @@ A lightweight and easy-to-understand implementation of a Kafka producer and cons
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/simple-kafka-rust.git
-   cd simple-kafka-rust
+   git clone https://github.com/rungrodkspeed/rust-kafka-simple
+   cd rust-kafka-simple
     ```
 
 2. Start your Kafka server:
